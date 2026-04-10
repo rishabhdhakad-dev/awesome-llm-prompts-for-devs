@@ -1,13 +1,15 @@
 # awesome-llm-prompts-for-devs
 
-[![Stars](https://img.shields.io/github/stars/your-username/awesome-llm-prompts-for-devs?style=social)](https://github.com/your-username/awesome-llm-prompts-for-devs)
+[![Stars](https://img.shields.io/github/stars/rishabhdhakad-dev/awesome-llm-prompts-for-devs?style=social)](https://github.com/rishabhdhakad-dev/awesome-llm-prompts-for-devs)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/your-username/awesome-llm-prompts-for-devs)](https://github.com/your-username/awesome-llm-prompts-for-devs/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/rishabhdhakad-dev/awesome-llm-prompts-for-devs)](https://github.com/rishabhdhakad-dev/awesome-llm-prompts-for-devs/graphs/contributors)
 
 An awesome-list style collection of 500+ LLM prompts for developers.
 
 Use this repository to accelerate code review, debugging, architecture planning, testing, security analysis, documentation, refactoring, DevOps, Git workflows, and API design. Every prompt is written to be practical, reusable, and easy to adapt to your stack.
+
+**GitHub topics:** `llm`, `prompts`, `chatgpt`, `claude`, `developer-tools`, `awesome-list`, `ai`, `productivity`
 
 ## Table of Contents
 
@@ -376,7 +378,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 If this repository helps your workflow, consider starring it to help others discover it.
 
 <!-- Replace with a live star history image when publishing -->
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/awesome-llm-prompts-for-devs&type=Date)](https://star-history.com/#your-username/awesome-llm-prompts-for-devs&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=rishabhdhakad-dev/awesome-llm-prompts-for-devs&type=Date)](https://star-history.com/#rishabhdhakad-dev/awesome-llm-prompts-for-devs&Date)
 
 ## License
 
