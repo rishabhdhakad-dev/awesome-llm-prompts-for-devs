@@ -6,6 +6,7 @@ All notable changes to this repository will be documented in this file.
 
 ### Added
 
+- README maintainer identity aligned to `rishabhdhakad-dev`
 - Bash scripting prompt pack
 - SQL queries prompt pack
 - Data science prompt pack

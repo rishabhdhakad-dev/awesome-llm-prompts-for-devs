@@ -1,6 +1,6 @@
 # awesome-llm-prompts-for-devs
 
-[![Version](https://img.shields.io/badge/version-v1.1.0-blue.svg)](#)
+[![Version](https://img.shields.io/badge/version-v1.1.1-blue.svg)](#)
 
 [![Stars](https://img.shields.io/github/stars/rishabhdhakad-dev/awesome-llm-prompts-for-devs?style=social)](https://github.com/rishabhdhakad-dev/awesome-llm-prompts-for-devs)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -11,7 +11,9 @@ An awesome-list style collection of 95+ LLM prompts for developers.
 
 Use this repository to accelerate code review, debugging, architecture planning, testing, security analysis, documentation, refactoring, DevOps, Git workflows, API design, Bash scripting, SQL work, data science, machine learning, and interview preparation. Every prompt is written to be practical, reusable, and easy to adapt to your stack.
 
-Version: `v1.1.0`
+Version: `v1.1.1`
+
+Maintainer: `rishabhdhakad-dev`
 
 **GitHub topics:** `llm`, `prompts`, `chatgpt`, `claude`, `developer-tools`, `awesome-list`, `ai`, `productivity`
 
