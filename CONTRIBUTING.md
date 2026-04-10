@@ -21,6 +21,7 @@ git checkout -b feat/your-prompt-name
 ## Folder Structure
 
 - `README.md` contains the project overview and the top-level prompt showcase.
+- `prompts/PROMPTS_INDEX.md` is the category map for all prompt packs.
 - `prompts/<category>/README.md` contains prompts for a single developer use case.
 - Keep related prompts together in the same category folder.
 - Use one prompt per section so they are easy to copy, search, and maintain.
@@ -29,11 +30,22 @@ Example structure:
 
 ```text
 prompts/
+  PROMPTS_INDEX.md
   code-review/
     README.md
   debugging/
     README.md
   architecture/
+    README.md
+  bash-scripting/
+    README.md
+  sql-queries/
+    README.md
+  data-science/
+    README.md
+  machine-learning/
+    README.md
+  interview-prep/
     README.md
 ```
 

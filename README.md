@@ -1,5 +1,7 @@
 # awesome-llm-prompts-for-devs
 
+[![Version](https://img.shields.io/badge/version-v1.1.0-blue.svg)](#)
+
 [![Stars](https://img.shields.io/github/stars/rishabhdhakad-dev/awesome-llm-prompts-for-devs?style=social)](https://github.com/rishabhdhakad-dev/awesome-llm-prompts-for-devs)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -7,7 +9,9 @@
 
 An awesome-list style collection of 500+ LLM prompts for developers.
 
-Use this repository to accelerate code review, debugging, architecture planning, testing, security analysis, documentation, refactoring, DevOps, Git workflows, and API design. Every prompt is written to be practical, reusable, and easy to adapt to your stack.
+Use this repository to accelerate code review, debugging, architecture planning, testing, security analysis, documentation, refactoring, DevOps, Git workflows, API design, Bash scripting, SQL work, data science, machine learning, and interview preparation. Every prompt is written to be practical, reusable, and easy to adapt to your stack.
+
+Version: `v1.1.0`
 
 **GitHub topics:** `llm`, `prompts`, `chatgpt`, `claude`, `developer-tools`, `awesome-list`, `ai`, `productivity`
 
@@ -58,6 +62,11 @@ You can keep these prompts as plain text, drop them into ChatGPT or Claude, or t
 | refactoring | Clean code, modernization, simplification | 6 | Maintainable codebases |
 | devops | Containers, CI/CD, deploys, observability | 6 | Reliable delivery |
 | git | Commits, PRs, branching, conflict resolution | 6 | Cleaner workflow |
+| bash-scripting | Shell automation, cron, text processing | 5 | Safe shell workflows |
+| sql-queries | Query writing, optimization, reporting | 5 | Database work |
+| data-science | EDA, experiments, dashboards | 5 | Analysis and insights |
+| machine-learning | Modeling, training, evaluation, inference | 5 | ML workflows |
+| interview-prep | Mock interviews, DSA, behavioral prep | 5 | Hiring preparation |
 
 ## Top 10 Most Useful Prompts
 
@@ -372,6 +381,13 @@ Output format:
 We welcome additions that are practical, specific, and useful in real developer workflows.
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+
+See [prompts/PROMPTS_INDEX.md](prompts/PROMPTS_INDEX.md) for the category map and repository structure.
+
+Community and safety documents:
+
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- [SECURITY.md](SECURITY.md)
 
 ## Star History
 
