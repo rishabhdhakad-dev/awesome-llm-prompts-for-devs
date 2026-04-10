@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/rishabhdhakad-dev/awesome-llm-prompts-for-devs)](https://github.com/rishabhdhakad-dev/awesome-llm-prompts-for-devs/graphs/contributors)
 
-An awesome-list style collection of 500+ LLM prompts for developers.
+An awesome-list style collection of 95+ LLM prompts for developers.
 
 Use this repository to accelerate code review, debugging, architecture planning, testing, security analysis, documentation, refactoring, DevOps, Git workflows, API design, Bash scripting, SQL work, data science, machine learning, and interview preparation. Every prompt is written to be practical, reusable, and easy to adapt to your stack.
 
